@@ -1,0 +1,49 @@
+{
+  "signup": [
+    {
+      "fullname": "umasankar patra",
+      "phone": "7751040723",
+      "email": "patraumasankar18@gmail.com",
+      "password": "umasankar123",
+      "id": 1
+    },
+    {
+      "fullname": "kanha patra",
+      "phone": "9078200763",
+      "email": "kanha@gmail.com",
+      "password": "kanha123",
+      "id": 4
+    },
+    {
+      "fullname": "binaya panda",
+      "phone": "9078129779",
+      "email": "binaya@gmail.com",
+      "password": "binaya123",
+      "id": 5
+    },
+    {
+      "fullname": "sibani patra",
+      "phone": "9348727106",
+      "email": "sibani@gmail.com",
+      "password": "sibani123",
+      "id": 6
+    },
+    {
+      "fullname": "smruti choudhury",
+      "phone": "6370810631",
+      "email": "smruti@gmail.com",
+      "password": "smruti@gmail.com",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
